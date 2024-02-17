@@ -1,11 +1,11 @@
 # Graph
-### These codes shows different types of graphs:
+## These codes show different types of graphs:
 #### - Undirected Graph
 #### - Directed Graph
 #### - Weighted Undirected Graph
 #### - Weighted Directed graph
 
-### And shows many different operations you can do on:
+## And show many different operations you can do on:
 #### - Traversing using DFS.
 #### - Traversing usin BFS.
 #### - Knowing number of connected components
