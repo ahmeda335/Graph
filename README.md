@@ -16,8 +16,12 @@
 #### - MaxFlow - MinCut Algorithm
 
 # Notes:
-### - The codes doesn't completely handle all cases, you can increase
-###   what you want to meet your needs.
+#### * The codes doesn't completely handle all cases, you can increase
+####   what you want to meet your needs.
 
-### - When the user enter the graph the initial vertex must be '0' vertex
-###   you can handle the code to begin from index '1' if you want.
+#### * When the user enter the graph the initial vertex must be '0' vertex
+####   you can handle the code to begin from index '1' if you want.
+
+#### * There are some files of codes that depend on each other, so if you 
+####   want to run one you must download the other, and download the needed
+####   required libraries
