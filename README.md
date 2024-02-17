@@ -7,13 +7,13 @@
 
 ## And show many different operations you can do on:
 #### - Traversing using DFS.
-#### - Traversing usin BFS.
+#### - Traversing using BFS.
 #### - Knowing number of connected components
 #### - Getting Topological Sort
 #### - Getting Minimum Spanning Tree using Kruskal Algorithm
 #### - Getting Minimum Spanning Tree using Prim's Algorithm
 #### - Getting Shortest path using Dijkstra Algorithm
-#### - MaxFlow - MinCut Algorithm
+#### - MaxFlow Algorithm
 
 # Notes:
 #### * The codes doesn't completely handle all cases, you can increase
